@@ -1,8 +1,12 @@
 # vbnetoracle
 Setelah selesai instalasi maka untuk mengelola database Oracle bisa lewat Broser dengan alamat :
+
 http://127.0.0.1:8080/apex/
+
+
 user : sys
-pwd : <sesuai password yg diisi saat instalasi>
+
+pwd : {sesuai password yg diisi saat instalasi}
 
 Tambahlah seorang user baru dgn previlege full lewat menu
 Administration > Manage User > Create
