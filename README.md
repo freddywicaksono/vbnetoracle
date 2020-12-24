@@ -1,4 +1,5 @@
 # vbnetoracle
+Oracle 10g 64 Bit
 Setelah selesai instalasi maka untuk mengelola database Oracle bisa lewat Broser dengan alamat :
 
 http://127.0.0.1:8080/apex/
