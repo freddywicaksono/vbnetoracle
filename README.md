@@ -1,5 +1,6 @@
 # vbnetoracle
 Oracle 10g 64 Bit
+
 Setelah selesai instalasi maka untuk mengelola database Oracle bisa lewat Broser dengan alamat :
 
 http://127.0.0.1:8080/apex/
@@ -19,3 +20,5 @@ secara otomatis bernama xe dgn user dan password sebagaimana Anda seting diatas 
 
 Yang bisa dilakukan adalah membuat tabel lewat menu :
 Object Browser > Create > Table
+
+File System.Data.OracleClient.dll dan System.Data.OracleClient.xml merupakan library yang diperlukan untuk mengakses database Oracle 10g tersebut dari aplikasi VB Net
